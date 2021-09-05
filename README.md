@@ -4,5 +4,7 @@
 * [LISTS (introduction)](https://github.com/Omid-Mohajerani/pyclass/wiki/LISTS-IN-PYTHON--(introduction))
  
 * [WORKING WITH LISTS](https://github.com/Omid-Mohajerani/pyclass/wiki/WORKING-WITH-LISTS) 
+
+* [IF STATEMENTS](https://github.com/Omid-Mohajerani/pyclass/wiki/IF-STATEMENTS)
  
 * [FUNCTIONS](https://github.com/Omid-Mohajerani/pyclass/wiki/Functions-in-Python)
