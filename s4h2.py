@@ -1,5 +1,5 @@
 
-# Omid Mohajearni - Python Class 14 to 18
+# Omid Mohajearni - Python Class -  Thursdays -  14 to 18
 # Calculate area of a sphere
 # We are using a fucntion with return value
 # Area of sphere = 4.0 pi * r**2
