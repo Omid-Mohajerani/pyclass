@@ -1,4 +1,3 @@
-
 # Omid Mohajearni - Python Class -  Thursdays -  14 to 18
 # Calculate area of a sphere
 # We are using a fucntion with return value
