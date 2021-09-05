@@ -1,5 +1,4 @@
-
-# Omid Mohajearni - Python Class 14 to 18
+# Omid Mohajearni - Python Class -  Thursdays -  14 to 18
 # Calculate volume of a sphere
 # We are using a fucntion with return value
 # Volume of sphere = 4.0/ 3.0 * pi * r**3
