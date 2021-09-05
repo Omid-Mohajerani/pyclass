@@ -1,6 +1,7 @@
 # Omid Mohajearni - Python Class -  Thursdays -  14 to 18
 # Calculate area and volumme of a cone
 # We are using a fucntion with return value
+# Output : https://github.com/Omid-Mohajerani/pyclass/wiki/PYTHON-HOMEWORKS#s4h4--calculate-area-and-volume-of-a-cone
 import math
 
 def cone_area(r,h):
