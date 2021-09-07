@@ -9,6 +9,8 @@
  
 * [WORKING WITH LISTS](https://github.com/Omid-Mohajerani/pyclass/wiki/WORKING-WITH-LISTS) 
 
+* [DICTIONARIES](https://github.com/Omid-Mohajerani/pyclass/wiki/DICTIONARIES)
+
 * [IF STATEMENTS](https://github.com/Omid-Mohajerani/pyclass/wiki/IF-STATEMENTS)
  
 * [FUNCTIONS](https://github.com/Omid-Mohajerani/pyclass/wiki/Functions-in-Python)
