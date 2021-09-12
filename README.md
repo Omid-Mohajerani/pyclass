@@ -14,3 +14,5 @@
 * [IF STATEMENTS](https://github.com/Omid-Mohajerani/pyclass/wiki/IF-STATEMENTS)
  
 * [FUNCTIONS](https://github.com/Omid-Mohajerani/pyclass/wiki/Functions-in-Python)
+
+* [Python OS Module](https://github.com/Omid-Mohajerani/pyclass/wiki/Python-OS-Module)
