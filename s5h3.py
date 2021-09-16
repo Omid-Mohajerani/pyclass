@@ -1,6 +1,6 @@
 # Omid Mohajearni - Python Class -  Thursdays -  14 to 18
-# Ask a list of fruits from the User and show the number of unique fruits
-# Output:
+# Ask a list of fruits from the User and show the number of unique fruits. Enter "End" to finish accepting new values
+# Output: https://github.com/Omid-Mohajerani/pyclass/wiki/PYTHON-HOMEWORKS#s5h23-ask-a-list-of-fruits-from-the-user-and-show-the-number-of-unique-fruits
 
 firstfruit = input("Enter name of a fruit: ")
 fruits = []
