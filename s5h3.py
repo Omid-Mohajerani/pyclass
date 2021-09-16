@@ -1,5 +1,5 @@
 # Omid Mohajearni - Python Class -  Thursdays -  14 to 18
-# Ask a list of fruits from User and show number of unique fruis
+# Ask a list of fruits from User and show number of unique fruits
 # Output:
 
 firstfruit = input("Enter name of a fruit: ")
