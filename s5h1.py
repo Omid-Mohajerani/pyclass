@@ -1,5 +1,5 @@
 # Omid Mohajearni - Python Class -  Thursdays -  14 to 18
-# adding 3 lists and print it in reverse with one pass
+# add 3 lists and print in reversed Decussated 
 # Output: 
 list1 = [1,2,3]
 list2 = [4,5,6]
