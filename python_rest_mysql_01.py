@@ -14,7 +14,7 @@ filename = f'PCMC_CALLBACKREPORT-{today}.csv'
 
 api_base_url = 'https://10.33.4.88/stats/rest/index.php?entity=reports'
 api_usename = 'admin'
-api_password = 'PMCAstios01!'
+api_password = 'myrestpass'
 report = '/unanswered_calls_detail'
 startdate = f"{yesterday}"
 enddate = f"{yesterday}"
