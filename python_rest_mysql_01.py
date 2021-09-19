@@ -10,7 +10,7 @@ from requests.auth import HTTPBasicAuth
 callback_acceptable_seconds = 7200
 
 today = datetime.date.today()
-yesterday = today - datetime.timedelta(days = 6)
+yesterday = today - datetime.timedelta(days = 1)
 
 filename = f'PCMC_CALLBACKREPORT-{today}.csv'
 
@@ -20,7 +20,7 @@ api_usename = 'admin'
 api_password = 'webservicepassword'
 report = '/unanswered_calls_detail'
 startdate = f"{yesterday}"
-enddate = f"{yesterday}"
+enddate = f"{yeasterday}"
 fullurl = api_base_url+report+'&start='+startdate+'&end='+enddate
 response = requests.get(fullurl,auth=HTTPBasicAuth(api_usename, api_password),verify=False)
 response = response.json()
