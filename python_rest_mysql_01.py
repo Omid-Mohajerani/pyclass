@@ -1,3 +1,6 @@
+# Omid Mohajearni
+# My very first code to connect to Asternic Reporting Tool Webservice and MYSQL Database 
+
 import mysql.connector
 import datetime
 import requests
