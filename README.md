@@ -16,3 +16,5 @@
 * [FUNCTIONS](https://github.com/Omid-Mohajerani/pyclass/wiki/Functions-in-Python)
 
 * [Python OS Module](https://github.com/Omid-Mohajerani/pyclass/wiki/Python-OS-Module)
+
+* [Using sqlite3 in Python](https://github.com/Omid-Mohajerani/pyclass/wiki/Using-sqlite3-in-Python)
